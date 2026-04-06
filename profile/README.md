@@ -18,10 +18,9 @@
 
 <br />
 
-[![📌 동아리 소개](https://img.shields.io/badge/%EB%8F%99%EC%95%84%EB%A6%AC%20%EC%86%8C%EA%B0%9C-5865F2?style=for-the-badge)](여기에-동아리-소개-링크)
-[![🚀 모집 안내](https://img.shields.io/badge/%EB%AA%A8%EC%A7%91%20%EC%95%88%EB%82%B4-111827?style=for-the-badge)](여기에-모집-링크)
-[![💬 Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](여기에-디스코드-링크)
-[![📝 Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](여기에-노션-링크)
+[![📌 동아리 소개](https://img.shields.io/badge/%EB%8F%99%EC%95%84%EB%A6%AC%20%EC%86%8C%EA%B0%9C-5865F2?style=for-the-badge)](https://geode-lead-fa3.notion.site/invite-onezero)
+[![🚀 모집 안내](https://img.shields.io/badge/%EB%AA%A8%EC%A7%91%20%EC%95%88%EB%82%B4-111827?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSdC1RmF-09SnwSdBSDO_cBk4_hZq-Swie4HrGysSzJvellDOA/viewform)
+[![🌐 GDGoC](https://img.shields.io/badge/GDGoC%20Page-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/gdg-on-campus-daejeon-university-daejeon-south-korea/)
 
 </div>
 
@@ -103,13 +102,12 @@ Github Organization 참여는 아래 순서로 진행됩니다.
 
 ## 🔗 Links
 
-> 아래 공간들은 필요에 맞게 자유롭게 연결해 주세요.
+> 아래 항목에 실제 URL을 넣으면 상단 버튼도 함께 교체하면 됩니다.
 
-- 🌐 동아리 소개: `여기에 링크 삽입`
-- 📢 모집 안내: `여기에 링크 삽입`
-- 💬 Discord: `여기에 링크 삽입`
-- 📝 Notion: `여기에 링크 삽입`
-- 📷 Instagram / SNS: `여기에 링크 삽입`
+- 🌐 동아리 소개: https://geode-lead-fa3.notion.site/invite-onezero
+- 📢 모집 안내: https://docs.google.com/forms/d/e/1FAIpQLSdC1RmF-09SnwSdBSDO_cBk4_hZq-Swie4HrGysSzJvellDOA/viewform
+- 🌐 GDGoC 페이지: https://gdg.community.dev/gdg-on-campus-daejeon-university-daejeon-south-korea/
+- 📷 Instagram / SNS: https://www.instagram.com/gdgoc.dju/
 
 ---
 
