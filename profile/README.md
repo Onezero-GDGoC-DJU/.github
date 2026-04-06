@@ -21,6 +21,7 @@
 [![📌 동아리 소개](https://img.shields.io/badge/%EB%8F%99%EC%95%84%EB%A6%AC%20%EC%86%8C%EA%B0%9C-5865F2?style=for-the-badge)](https://geode-lead-fa3.notion.site/invite-onezero)
 [![🚀 모집 안내](https://img.shields.io/badge/%EB%AA%A8%EC%A7%91%20%EC%95%88%EB%82%B4-111827?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSdC1RmF-09SnwSdBSDO_cBk4_hZq-Swie4HrGysSzJvellDOA/viewform)
 [![🌐 GDGoC](https://img.shields.io/badge/GDGoC%20Page-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/gdg-on-campus-daejeon-university-daejeon-south-korea/)
+[![📷 Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gdgoc.dju/)
 
 </div>
 
