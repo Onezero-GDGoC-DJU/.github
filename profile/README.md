@@ -7,8 +7,8 @@
 
 # 🌙 일영 Github Organization
 
-<!-- 동아리 대표 이미지 / 로고 / 배너 넣는 공간 -->
-<img src="여기에-동아리-대표-이미지-링크-삽입" alt="일영 대표 이미지" width="180" />
+<!-- 동아리 대표 이미지 / 로고 / 배너 -->
+<img src="./GDGoC23_Intro_v02.gif" alt="GDGoC 대표 이미지" width="320" />
 
 <br />
 <br />
@@ -18,7 +18,6 @@
 
 <br />
 
-<!-- 소개 링크 / 모집 링크 / 디스코드 링크 넣는 공간 -->
 [![📌 동아리 소개](https://img.shields.io/badge/%EB%8F%99%EC%95%84%EB%A6%AC%20%EC%86%8C%EA%B0%9C-5865F2?style=for-the-badge)](여기에-동아리-소개-링크)
 [![🚀 모집 안내](https://img.shields.io/badge/%EB%AA%A8%EC%A7%91%20%EC%95%88%EB%82%B4-111827?style=for-the-badge)](여기에-모집-링크)
 [![💬 Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](여기에-디스코드-링크)
